@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deniz calik
-- 👀 I’m interested in FPGA, IoT, PCB. 
+- 👀 I’m interested in FPGA, PCB. 
 - 🌱 I’m currently learning VHDL (Hardware design language), PCB design (KiCAD)
 - 💞️ I’m looking to collaborate on FPGA projects
 - 📫 How to reach me denizcalik00@gmail.com
