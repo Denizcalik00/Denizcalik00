@@ -1,0 +1,78 @@
+Running in Lattice mode
+
+
+Starting:    C:\lscc\iCEcube2.2020.12\synpbase\bin64\mbin\synbatch.exe
+Install:     C:\lscc\iCEcube2.2020.12\synpbase
+Hostname:    DENIZ
+Date:        Wed Feb 19 16:49:08 2025
+Version:     L-2016.09L+ice40
+
+Arguments:   -product synplify_pro -batch Project8_LED_Blinking_syn.prj
+ProductType: synplify_pro
+
+
+
+
+
+log file: "C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project8_LED_Blinking\Project8_LED_Blinking_Implmnt\Project8_LED_Blinking.srr"
+Running: Project8_LED_Blinking_Implmnt in foreground
+
+Running Project8_LED_Blinking_syn|Project8_LED_Blinking_Implmnt
+
+Running: compile (Compile) on Project8_LED_Blinking_syn|Project8_LED_Blinking_Implmnt
+# Wed Feb 19 16:49:08 2025
+
+Running: compile_flow (Compile Process) on Project8_LED_Blinking_syn|Project8_LED_Blinking_Implmnt
+# Wed Feb 19 16:49:08 2025
+
+Running: compiler (Compile Input) on Project8_LED_Blinking_syn|Project8_LED_Blinking_Implmnt
+# Wed Feb 19 16:49:08 2025
+Copied C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project8_LED_Blinking\Project8_LED_Blinking_Implmnt\synwork\Project8_LED_Blinking_comp.srs to C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project8_LED_Blinking\Project8_LED_Blinking_Implmnt\Project8_LED_Blinking.srs
+
+compiler completed
+# Wed Feb 19 16:49:10 2025
+
+Return Code: 0
+Run Time:00h:00m:02s
+
+Running: multi_srs_gen (Multi-srs Generator) on Project8_LED_Blinking_syn|Project8_LED_Blinking_Implmnt
+# Wed Feb 19 16:49:10 2025
+
+multi_srs_gen completed
+# Wed Feb 19 16:49:10 2025
+
+Return Code: 0
+Run Time:00h:00m:00s
+Copied C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project8_LED_Blinking\Project8_LED_Blinking_Implmnt\synwork\Project8_LED_Blinking_mult.srs to C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project8_LED_Blinking\Project8_LED_Blinking_Implmnt\Project8_LED_Blinking.srs
+Complete: Compile Process on Project8_LED_Blinking_syn|Project8_LED_Blinking_Implmnt
+
+Running: premap (Pre-mapping) on Project8_LED_Blinking_syn|Project8_LED_Blinking_Implmnt
+# Wed Feb 19 16:49:10 2025
+
+premap completed
+# Wed Feb 19 16:49:10 2025
+
+Return Code: 0
+Run Time:00h:00m:00s
+Complete: Compile on Project8_LED_Blinking_syn|Project8_LED_Blinking_Implmnt
+
+Running: map (Map) on Project8_LED_Blinking_syn|Project8_LED_Blinking_Implmnt
+# Wed Feb 19 16:49:10 2025
+License granted for 4 parallel jobs
+
+Running: fpga_mapper (Map & Optimize) on Project8_LED_Blinking_syn|Project8_LED_Blinking_Implmnt
+# Wed Feb 19 16:49:10 2025
+Copied C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project8_LED_Blinking\Project8_LED_Blinking_Implmnt\synwork\Project8_LED_Blinking_m.srm to C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project8_LED_Blinking\Project8_LED_Blinking_Implmnt\Project8_LED_Blinking.srm
+
+fpga_mapper completed with warnings
+# Wed Feb 19 16:49:11 2025
+
+Return Code: 1
+Run Time:00h:00m:01s
+Complete: Map on Project8_LED_Blinking_syn|Project8_LED_Blinking_Implmnt
+Complete: Logic Synthesis on Project8_LED_Blinking_syn|Project8_LED_Blinking_Implmnt
+
+exit status=0
+
+exit status=0
+

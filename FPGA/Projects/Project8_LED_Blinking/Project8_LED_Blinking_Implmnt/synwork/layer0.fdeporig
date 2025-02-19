@@ -1,0 +1,30 @@
+#defaultlanguage:vhdl
+#OPTIONS:"|-layerid|0|-orig_srs|C:\\Users\\Deniz_xbibqhy\\OneDrive\\Desktop\\FPGA\\PROJECTS\\Project8_LED_Blinking\\Project8_LED_Blinking_Implmnt\\synwork\\Project8_LED_Blinking_comp.srs|-autotop|-prodtype|synplify_pro|-primux|-fixsmult|-infer_seqShift|-ice|-sdff_counter|-nram|-divnmod|-nostructver|-encrypt|-pro|-lite|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-ignore_undefined_lib|-lib|work|-lib|work"
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\bin64\\c_vhdl.exe":1728749871
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\location.map":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\std.vhd":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\snps_haps_pkg.vhd":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\std1164.vhd":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\numeric.vhd":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\umr_capim.vhd":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\arith.vhd":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\unsigned.vhd":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\hyperents.vhd":1728749874
+#CUR:"C:\\Users\\Deniz_xbibqhy\\OneDrive\\Desktop\\FPGA\\VHDL\\Project8_LED_Blink.vhd":1739982366
+#CUR:"C:\\Users\\Deniz_xbibqhy\\OneDrive\\Desktop\\FPGA\\VHDL\\Project8_LED_Blink_Top_Module.vhd":1739983425
+0 "C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\Project8_LED_Blink.vhd" vhdl
+1 "C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\Project8_LED_Blink_Top_Module.vhd" vhdl
+
+# Dependency Lists (Uses list)
+0 -1
+1 0 
+
+# Dependency Lists (Users Of)
+0 1 
+1 -1
+
+# Design Unit to File Association
+arch work led_blink rtl 0
+module work led_blink 0
+arch work led_blink_top_module rtl 1
+module work led_blink_top_module 1

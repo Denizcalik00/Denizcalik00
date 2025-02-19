@@ -1,0 +1,10 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\Project8_LED_Blink_Top_Module.vhd":4:7:4:26|Top entity is set to LED_Blink_Top_Module.
+@N: CD630 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\Project8_LED_Blink_Top_Module.vhd":4:7:4:26|Synthesizing work.led_blink_top_module.rtl.
+@N: CD630 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\Project8_LED_Blink.vhd":6:7:6:15|Synthesizing work.led_blink.rtl.
+@N|Running in 64-bit mode
+@N: NF107 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\Project8_LED_Blink_Top_Module.vhd":4:7:4:26|Selected library: work cell: LED_Blink_Top_Module view rtl as top level
+@N: NF107 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\Project8_LED_Blink_Top_Module.vhd":4:7:4:26|Selected library: work cell: LED_Blink_Top_Module view rtl as top level
+

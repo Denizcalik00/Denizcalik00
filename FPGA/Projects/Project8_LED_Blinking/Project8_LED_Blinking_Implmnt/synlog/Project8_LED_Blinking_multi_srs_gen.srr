@@ -1,0 +1,14 @@
+Synopsys Netlist Linker, version comp2016q3p1, Build 141R, built Dec  5 2016
+@N|Running in 64-bit mode
+File C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project8_LED_Blinking\Project8_LED_Blinking_Implmnt\synwork\Project8_LED_Blinking_comp.srs changed - recompiling
+@N: NF107 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\Project8_LED_Blink_Top_Module.vhd":4:7:4:26|Selected library: work cell: LED_Blink_Top_Module view rtl as top level
+@N: NF107 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\Project8_LED_Blink_Top_Module.vhd":4:7:4:26|Selected library: work cell: LED_Blink_Top_Module view rtl as top level
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 67MB peak: 68MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Wed Feb 19 16:49:10 2025
+
+###########################################################]

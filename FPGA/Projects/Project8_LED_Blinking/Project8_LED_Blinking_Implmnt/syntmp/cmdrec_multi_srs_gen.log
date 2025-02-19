@@ -1,0 +1,7 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe  -link  -multisrs  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project8_LED_Blinking\Project8_LED_Blinking_Implmnt\synwork\Project8_LED_Blinking_comp.srs  -osyn  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project8_LED_Blinking\Project8_LED_Blinking_Implmnt\synwork\Project8_LED_Blinking_mult.srs  -log  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project8_LED_Blinking\Project8_LED_Blinking_Implmnt\synlog\Project8_LED_Blinking_multi_srs_gen.srr 
+rc:0 success:1 runtime:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project8_LED_Blinking\Project8_LED_Blinking_Implmnt\synwork\Project8_LED_Blinking_comp.srs|io:i|time:1739983748|size:6240|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project8_LED_Blinking\Project8_LED_Blinking_Implmnt\synwork\Project8_LED_Blinking_mult.srs|io:o|time:1739983750|size:2142|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project8_LED_Blinking\Project8_LED_Blinking_Implmnt\synlog\Project8_LED_Blinking_multi_srs_gen.srr|io:o|time:1739983750|size:940|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\syn_nfilter.exe|io:i|time:1728749870|size:3128320|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1728749871|size:3947520|exec:1

@@ -1,0 +1,16 @@
+[VIC]
+LED_Blink_Inst.r_Count_10HZ_RNO_0Z0Z_20_cascade_=ltout:in3
+LED_Blink_Inst.r_Count_1HZ_RNO_0Z0Z_23_cascade_=ltout:in3
+LED_Blink_Inst.r_Count_2HZ_RNO_0Z0Z_22_cascade_=ltout:in3
+LED_Blink_Inst.un1_r_count_10hz_12_cascade_=ltout:in1
+LED_Blink_Inst.un1_r_count_10hz_16_cascade_=ltout:in1
+LED_Blink_Inst.un1_r_count_10hz_18_cascade_=ltout:in2
+LED_Blink_Inst.un1_r_count_1hz_14_cascade_=ltout:in2
+LED_Blink_Inst.un1_r_count_1hz_16_cascade_=ltout:in0
+LED_Blink_Inst.un1_r_count_1hz_21_cascade_=ltout:in2
+LED_Blink_Inst.un1_r_count_2hz_14_cascade_=ltout:in3
+LED_Blink_Inst.un1_r_count_2hz_20_cascade_=ltout:in2
+LED_Blink_Inst.un1_r_count_5hz_13_cascade_=ltout:in1
+LED_Blink_Inst.un1_r_count_5hz_15_cascade_=ltout:in1
+LED_Blink_Inst.un1_r_count_5hz_17_cascade_=ltout:in1
+LED_Blink_Inst.un1_r_count_5hz_19_cascade_=ltout:in2

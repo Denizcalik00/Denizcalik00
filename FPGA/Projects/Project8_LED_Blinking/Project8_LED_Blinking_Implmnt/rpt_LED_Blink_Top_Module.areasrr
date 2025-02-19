@@ -1,0 +1,56 @@
+#### START OF AREA REPORT #####[
+
+Part:			ICE40HX1KVQ100 (Lattice)
+
+------------------------------------------------------------------------------------
+########   Utilization report for  Top level view:   LED_Blink_Top_Module   ########
+====================================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     94                 100 %                
+==================================================
+Total SEQUENTIAL ELEMENTS in the block LED_Blink_Top_Module:	94 (27.25 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       160                100 %                
+CARRYS     82                 100 %                
+===================================================
+Total COMBINATIONAL LOGIC in the block LED_Blink_Top_Module:	242 (70.14 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     5                  100 %                
+=================================================
+Total IO PADS in the block LED_Blink_Top_Module:	5 (1.45 % Utilization)
+
+---------------------------------------------------------------
+########   Utilization report for  cell:   LED_Blink   ########
+Instance path:   LED_Blink_Top_Module.LED_Blink                
+===============================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     94                 100 %                
+==================================================
+Total SEQUENTIAL ELEMENTS in the block LED_Blink_Top_Module.LED_Blink:	94 (27.25 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       160                100 %                
+CARRYS     82                 100 %                
+===================================================
+Total COMBINATIONAL LOGIC in the block LED_Blink_Top_Module.LED_Blink:	242 (70.14 % Utilization)
+
+
+##### END OF AREA REPORT #####]
+
