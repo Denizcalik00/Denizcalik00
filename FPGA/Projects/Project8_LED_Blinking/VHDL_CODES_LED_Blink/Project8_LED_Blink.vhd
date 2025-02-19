@@ -54,7 +54,7 @@ begin
       	end if;
    	end process p_10_Hz;
     
-    p_5_HZ	: process (i_Clk) is
+    p_5_Hz	: process (i_Clk) is
     begin
     	if rising_edge(i_Clk) then
         	if r_Count_5Hz = g_COUNT_5HZ then
@@ -64,9 +64,9 @@ begin
             	r_Count_5Hz <= r_Count_5Hz + 1;
             end if;
        	end if;
-    end process p_5_HZ;
+    end process p_5_Hz;
     
-    p_2_HZ 	: process(i_Clk) is
+    p_2_Hz 	: process(i_Clk) is
     begin
     	if rising_edge(i_Clk) then
         	if r_Count_2Hz = g_COUNT_2HZ then
