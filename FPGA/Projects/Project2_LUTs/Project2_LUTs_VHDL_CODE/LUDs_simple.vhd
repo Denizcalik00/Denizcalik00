@@ -13,6 +13,6 @@ end entity and_gate;
 architecture RTL of and_gate is
 begin 
 	-- Do not write code like that!!, because there are two inputs and we define only the state where both inputs are on(1,True). 
-	-- This will cause Lutch to happen, because of undefined situation.
+	-- This will cause Latch to happen, because of undefined situation.
     o_LED_1 <= i_Switch_1 and i_Switch_2;
 end architecture RTL;
