@@ -1,0 +1,4 @@
+@E: CS187 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\project5_debount_switch_module.vhd":31:24:31:24|Expecting <=
+@E: CD415 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\project5_debount_switch_module.vhd":38:20:38:20|Expecting keyword of
+@E: Parse errors encountered - exiting
+

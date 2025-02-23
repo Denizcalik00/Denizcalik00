@@ -1,0 +1,26 @@
+#OPTIONS:"|-layerid|0|-orig_srs|C:\\Users\\Deniz_xbibqhy\\OneDrive\\Desktop\\FPGA\\PROJECTS\\project5\\project5_Implmnt\\synwork\\project5_comp.srs|-autotop|-prodtype|synplify_pro|-primux|-fixsmult|-infer_seqShift|-ice|-sdff_counter|-nram|-divnmod|-nostructver|-encrypt|-pro|-lite|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-ignore_undefined_lib|-lib|work|-lib|work"
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\bin64\\c_vhdl.exe":1728749871
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\location.map":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\std.vhd":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\snps_haps_pkg.vhd":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\std1164.vhd":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\numeric.vhd":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\umr_capim.vhd":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\arith.vhd":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\unsigned.vhd":1728749874
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\hyperents.vhd":1728749874
+#CUR:"C:\\Users\\Deniz_xbibqhy\\OneDrive\\Desktop\\FPGA\\VHDL\\project5_debount_switch_module.vhd":1731690696
+#CUR:"C:\\Users\\Deniz_xbibqhy\\OneDrive\\Desktop\\FPGA\\VHDL\\project5_code.vhd":1731686529
+0			"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\project5_code.vhd" vhdl
+1			"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\project5_debount_switch_module.vhd" vhdl
+#Dependency Lists(Uses List)
+0 1
+1 -1
+#Dependency Lists(Users Of)
+0 -1
+1 0
+#Design Unit to File Association
+module work debounce_switch 1
+arch work debounce_switch rtl 1
+module work clocked_logic 0
+arch work clocked_logic rtl 0

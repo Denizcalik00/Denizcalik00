@@ -1,0 +1,4 @@
+@E: CD829 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\library library IEEE;.vhd":1:8:1:14|Expecting library name
+@E: CD213 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\library library IEEE;.vhd":15:8:15:8|Undefined identifier
+@E: Parse errors encountered - exiting
+

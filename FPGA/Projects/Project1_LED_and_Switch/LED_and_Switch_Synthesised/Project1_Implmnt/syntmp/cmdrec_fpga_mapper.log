@@ -1,0 +1,14 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\m_generic.exe  -prodtype  synplify_pro   -encrypt  -pro  -rundir  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt   -part iCE40HX1K  -package VQ100    -maxfan 10000 -RWCheckOnRam 0 -pipe -fixgatedclocks 1 -fixgeneratedclocks 1 -summaryfile C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\synlog\report\j_fpga_mapper.xml  -flow mapping  -multisrs  -oedif  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\j.edf   -autoconstraint  -freq 1.000   C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\synwork\j_prem.srd  -sap  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\j.sap  -otap  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\j.tap  -omap  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\j.map  -devicelib  C:\lscc\iCEcube2.2020.12\synpbase\lib\generic\sb_ice40.v  -sap  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\j.sap  -ologparam  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\syntmp\j.plg  -osyn  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\j.srm  -prjdir  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\  -prjname  j_syn  -log  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\synlog\j_fpga_mapper.srr 
+rc:0 success:1 runtime:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\j.edf|io:o|time:1729519741|size:7265|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\synwork\j_prem.srd|io:i|time:1729519740|size:1442|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\j.sap|io:o|time:1729519740|size:125|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\j.tap|io:o|time:0|size:0|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\j.map|io:o|time:1729519741|size:28|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\lib\generic\sb_ice40.v|io:i|time:1728749872|size:224837|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\j.sap|io:o|time:1729519740|size:125|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\syntmp\j.plg|io:o|time:1729519741|size:277|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\j.srm|io:o|time:1729519741|size:7391|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project1\j_Implmnt\synlog\j_fpga_mapper.srr|io:o|time:1729519741|size:7314|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\m_generic.exe|io:i|time:1728749870|size:17853440|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\m_generic.exe|io:i|time:1728749871|size:32355840|exec:1

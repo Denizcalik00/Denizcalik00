@@ -1,0 +1,14 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\m_generic.exe  -prodtype  synplify_pro   -encrypt  -pro  -rundir  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt   -part iCE40HX1K  -package VQ100    -maxfan 10000 -RWCheckOnRam 0 -pipe -fixgatedclocks 1 -fixgeneratedclocks 1 -summaryfile C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\synlog\report\try7seg_premap.xml  -oedif  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\try7seg.edf  -conchk_prepass  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\try7seg_cck.rpt   -autoconstraint  -freq 1.000   -tcl  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\Go_Board_Clock_Constraint.sdc  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\synwork\try7seg_mult.srs  -flow prepass  -gcc_prepass  -osrd  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\synwork\try7seg_prem.srd  -qsap  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\try7seg.sap  -devicelib  C:\lscc\iCEcube2.2020.12\synpbase\lib\generic\sb_ice40.v  -ologparam  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\syntmp\try7seg.plg  -osyn  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\synwork\try7seg_prem.srd  -prjdir  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\  -prjname  try7seg_syn  -log  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\synlog\try7seg_premap.srr 
+rc:0 success:1 runtime:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\try7seg.edf|io:o|time:0|size:0|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\try7seg_cck.rpt|io:o|time:1740321129|size:2403|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\Go_Board_Clock_Constraint.sdc|io:i|time:1730022319|size:356|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\synwork\try7seg_mult.srs|io:i|time:1740321129|size:4023|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\synwork\try7seg_prem.srd|io:o|time:1740321129|size:8575|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\try7seg.sap|io:o|time:1740321129|size:814|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\lib\generic\sb_ice40.v|io:i|time:1728749872|size:224837|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\syntmp\try7seg.plg|io:o|time:1740321129|size:0|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\synwork\try7seg_prem.srd|io:o|time:1740321129|size:8575|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg\try7seg_Implmnt\synlog\try7seg_premap.srr|io:o|time:1740321129|size:3172|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\m_generic.exe|io:i|time:1728749870|size:17853440|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\m_generic.exe|io:i|time:1728749871|size:32355840|exec:1

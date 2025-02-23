@@ -1,0 +1,46 @@
+Running in Lattice mode
+
+
+Starting:    C:\lscc\iCEcube2.2020.12\synpbase\bin64\mbin\synbatch.exe
+Install:     C:\lscc\iCEcube2.2020.12\synpbase
+Hostname:    DENIZ
+Date:        Fri Nov 15 17:10:35 2024
+Version:     L-2016.09L+ice40
+
+Arguments:   -product synplify_pro -batch project5_syn.prj
+ProductType: synplify_pro
+
+
+
+
+
+log file: "C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project5\project5_Implmnt\project5.srr"
+Running: project5_Implmnt in foreground
+
+Running project5_syn|project5_Implmnt
+
+Running: compile (Compile) on project5_syn|project5_Implmnt
+# Fri Nov 15 17:10:35 2024
+
+Running: compile_flow (Compile Process) on project5_syn|project5_Implmnt
+# Fri Nov 15 17:10:35 2024
+
+Running: compiler (Compile Input) on project5_syn|project5_Implmnt
+# Fri Nov 15 17:10:35 2024
+compiler exited with errors
+Job failed on: project5_syn|project5_Implmnt
+
+Job: "compiler" terminated with error status: 2
+See log file: "C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project5\project5_Implmnt\synlog\project5_compiler.srr"
+# Fri Nov 15 17:10:35 2024
+
+Return Code: 2
+Run Time:00h:00m:00s
+Complete: Compile Process on project5_syn|project5_Implmnt
+Complete: Compile on project5_syn|project5_Implmnt
+Complete: Logic Synthesis on project5_syn|project5_Implmnt
+
+exit status=2
+
+exit status=2
+

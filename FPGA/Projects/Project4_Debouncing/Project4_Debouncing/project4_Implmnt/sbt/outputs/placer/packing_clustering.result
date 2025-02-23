@@ -1,0 +1,41 @@
+ble_pack Debounce_Inst.un2_r_count_cry_1_c_LC_33 {Debounce_Inst.un2_r_count_cry_1_c}
+ble_pack Debounce_Inst.r_count[2]_LC_16 {Debounce_Inst.r_count[2], Debounce_Inst.un2_r_count_cry_2_c, Debounce_Inst.r_count_RNO[2]}
+ble_pack Debounce_Inst.r_count[3]_LC_17 {Debounce_Inst.r_count[3], Debounce_Inst.un2_r_count_cry_3_c, Debounce_Inst.r_count_RNO[3]}
+ble_pack Debounce_Inst.r_count[4]_LC_18 {Debounce_Inst.r_count[4], Debounce_Inst.un2_r_count_cry_4_c, Debounce_Inst.r_count_RNO[4]}
+ble_pack Debounce_Inst.r_count[5]_LC_19 {Debounce_Inst.r_count[5], Debounce_Inst.un2_r_count_cry_5_c, Debounce_Inst.r_count_RNO[5]}
+ble_pack Debounce_Inst.r_count[6]_LC_20 {Debounce_Inst.r_count[6], Debounce_Inst.un2_r_count_cry_6_c, Debounce_Inst.r_count_RNO[6]}
+ble_pack Debounce_Inst.r_count[7]_LC_21 {Debounce_Inst.r_count[7], Debounce_Inst.un2_r_count_cry_7_c, Debounce_Inst.r_count_RNO[7]}
+ble_pack Debounce_Inst.r_count[8]_LC_22 {Debounce_Inst.r_count[8], Debounce_Inst.un2_r_count_cry_8_c, Debounce_Inst.r_count_RNO[8]}
+clb_pack PLB_0 {Debounce_Inst.un2_r_count_cry_1_c_LC_33, Debounce_Inst.r_count[2]_LC_16, Debounce_Inst.r_count[3]_LC_17, Debounce_Inst.r_count[4]_LC_18, Debounce_Inst.r_count[5]_LC_19, Debounce_Inst.r_count[6]_LC_20, Debounce_Inst.r_count[7]_LC_21, Debounce_Inst.r_count[8]_LC_22}
+ble_pack Debounce_Inst.r_count[9]_LC_23 {Debounce_Inst.r_count[9], Debounce_Inst.un2_r_count_cry_9_c, Debounce_Inst.r_count_RNO[9]}
+ble_pack Debounce_Inst.r_count[10]_LC_8 {Debounce_Inst.r_count[10], Debounce_Inst.un2_r_count_cry_10_c, Debounce_Inst.r_count_RNO[10]}
+ble_pack Debounce_Inst.r_count[11]_LC_9 {Debounce_Inst.r_count[11], Debounce_Inst.un2_r_count_cry_11_c, Debounce_Inst.r_count_RNO[11]}
+ble_pack Debounce_Inst.r_count[12]_LC_10 {Debounce_Inst.r_count[12], Debounce_Inst.un2_r_count_cry_12_c, Debounce_Inst.r_count_RNO[12]}
+ble_pack Debounce_Inst.r_count[13]_LC_11 {Debounce_Inst.r_count[13], Debounce_Inst.un2_r_count_cry_13_c, Debounce_Inst.r_count_RNO[13]}
+ble_pack Debounce_Inst.r_count[14]_LC_12 {Debounce_Inst.r_count[14], Debounce_Inst.un2_r_count_cry_14_c, Debounce_Inst.r_count_RNO[14]}
+ble_pack Debounce_Inst.r_count[15]_LC_13 {Debounce_Inst.r_count[15], Debounce_Inst.un2_r_count_cry_15_c, Debounce_Inst.r_count_RNO[15]}
+ble_pack Debounce_Inst.r_count[16]_LC_14 {Debounce_Inst.r_count[16], Debounce_Inst.un2_r_count_cry_16_c, Debounce_Inst.r_count_RNO[16]}
+clb_pack PLB_1 {Debounce_Inst.r_count[9]_LC_23, Debounce_Inst.r_count[10]_LC_8, Debounce_Inst.r_count[11]_LC_9, Debounce_Inst.r_count[12]_LC_10, Debounce_Inst.r_count[13]_LC_11, Debounce_Inst.r_count[14]_LC_12, Debounce_Inst.r_count[15]_LC_13, Debounce_Inst.r_count[16]_LC_14}
+ble_pack Debounce_Inst.r_count[17]_LC_15 {Debounce_Inst.r_count[17], Debounce_Inst.r_count_RNO[17]}
+clb_pack PLB_2 {Debounce_Inst.r_count[17]_LC_15}
+ble_pack Debounce_Inst.r_count_RNI2BKF1[17]_LC_0 {Debounce_Inst.r_count_RNI2BKF1[17]}
+ble_pack Debounce_Inst.r_count_RNIPUGG2[13]_LC_1 {Debounce_Inst.r_count_RNIPUGG2[13]}
+ble_pack Debounce_Inst.r_count_RNIQ7HN5[12]_LC_2 {Debounce_Inst.r_count_RNIQ7HN5[12]}
+ble_pack Debounce_Inst.r_count_RNIQUEB1[4]_LC_3 {Debounce_Inst.r_count_RNIQUEB1[4]}
+ble_pack Debounce_Inst.r_count_RNISLBU[8]_LC_4 {Debounce_Inst.r_count_RNISLBU[8]}
+ble_pack Debounce_Inst.r_count_RNIU83D[4]_LC_5 {Debounce_Inst.r_count_RNIU83D[4]}
+clb_pack PLB_3 {Debounce_Inst.r_count_RNI2BKF1[17]_LC_0, Debounce_Inst.r_count_RNIPUGG2[13]_LC_1, Debounce_Inst.r_count_RNIQ7HN5[12]_LC_2, Debounce_Inst.r_count_RNIQUEB1[4]_LC_3, Debounce_Inst.r_count_RNISLBU[8]_LC_4, Debounce_Inst.r_count_RNIU83D[4]_LC_5}
+ble_pack Debounce_Inst.r_state_RNO_0_LC_25 {Debounce_Inst.r_state_RNO_0}
+ble_pack Debounce_Inst.r_state_LC_24 {Debounce_Inst.r_state, Debounce_Inst.r_state_RNO}
+ble_pack Debounce_Inst.r_state_RNO_2_LC_27 {Debounce_Inst.r_state_RNO_2}
+ble_pack Debounce_Inst.r_state_RNO_3_LC_28 {Debounce_Inst.r_state_RNO_3}
+ble_pack Debounce_Inst.r_state_RNO_1_LC_26 {Debounce_Inst.r_state_RNO_1}
+ble_pack Debounce_Inst.r_state_RNO_4_LC_29 {Debounce_Inst.r_state_RNO_4}
+clb_pack PLB_4 {Debounce_Inst.r_state_RNO_0_LC_25, Debounce_Inst.r_state_LC_24, Debounce_Inst.r_state_RNO_2_LC_27, Debounce_Inst.r_state_RNO_3_LC_28, Debounce_Inst.r_state_RNO_1_LC_26, Debounce_Inst.r_state_RNO_4_LC_29}
+ble_pack Debounce_Inst.r_state_RNO_5_LC_30 {Debounce_Inst.r_state_RNO_5}
+ble_pack Debounce_Inst.r_count[0]_LC_6 {Debounce_Inst.r_count[0], Debounce_Inst.r_count_RNO[0]}
+ble_pack Debounce_Inst.r_count[1]_LC_7 {Debounce_Inst.r_count[1], Debounce_Inst.r_count_RNO[1]}
+clb_pack PLB_5 {Debounce_Inst.r_state_RNO_5_LC_30, Debounce_Inst.r_count[0]_LC_6, Debounce_Inst.r_count[1]_LC_7}
+ble_pack r_LED_1_LC_31 {r_LED_1, r_LED_1_RNO}
+ble_pack r_Switch_1_LC_32 {r_Switch_1, r_Switch_1_THRU_LUT4_0}
+clb_pack PLB_6 {r_LED_1_LC_31, r_Switch_1_LC_32}

@@ -1,0 +1,7 @@
+@W: FA239 :"c:\users\deniz_xbibqhy\onedrive\desktop\fpga\vhdl\7-segment-convertion-again-.vhd":26:12:26:15|ROM r_Hex_Encoding_17[6:0] (in view: work.Binary_To_7Segment(rtl)) mapped in logic. To map to a technology ROM, apply attribute syn_romstyle on this instance.
+@W: FA239 :"c:\users\deniz_xbibqhy\onedrive\desktop\fpga\vhdl\7-segment-convertion-again-.vhd":26:12:26:15|ROM r_Hex_Encoding_17[6:0] (in view: work.Binary_To_7Segment(rtl)) mapped in logic. To map to a technology ROM, apply attribute syn_romstyle on this instance.
+@W: FX1039 :"c:\users\deniz_xbibqhy\onedrive\desktop\fpga\vhdl\project5_debount_switch_module.vhd":25:8:25:9|User-specified initial value defined for instance Debounce_Inst.r_count[17:0] is being ignored. 
+@W: FX1039 :"c:\users\deniz_xbibqhy\onedrive\desktop\fpga\vhdl\project5_debount_switch_module.vhd":25:8:25:9|User-specified initial value defined for instance Debounce_Inst.r_state is being ignored. 
+@W: FX1039 :"c:\users\deniz_xbibqhy\onedrive\desktop\fpga\vhdl\7-segment-convertion-again-.vhd":25:8:25:9|User-specified initial value defined for instance SevenSeg1_Inst.r_Hex_Encoding[6:0] is being ignored. 
+@W: FX1039 :"c:\users\deniz_xbibqhy\onedrive\desktop\fpga\vhdl\7-segment-top-level-again.vhd":27:37:27:39|User-specified initial value defined for instance r_Count[3:0] is being ignored. 
+@W: FX1039 :"c:\users\deniz_xbibqhy\onedrive\desktop\fpga\vhdl\7-segment-top-level-again.vhd":50:8:50:9|User-specified initial value defined for instance r_Switch_1 is being ignored. 

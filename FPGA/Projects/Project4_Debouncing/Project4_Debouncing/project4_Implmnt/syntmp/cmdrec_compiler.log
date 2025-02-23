@@ -1,0 +1,8 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe  -osyn  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project5\project5_Implmnt\synwork\project5_comp.srs  -hdllog  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project5\project5_Implmnt\synlog\project5_compiler.srr  -encrypt  -mp  4  -verification_mode 0  -vhdl  -prodtype  synplify_pro  -primux -fixsmult -infer_seqShift -ice -sdff_counter -nram -divnmod -nostructver  -encrypt  -pro  -dmgen  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project5\project5_Implmnt\dm  -lite -ui -fid2 -ram -sharing on -ll 2000 -autosm  -ignore_undefined_lib  -lib work C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\project5_code.vhd -lib work C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\project5_debount_switch_module.vhd 
+rc:0 success:1 runtime:1
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project5\project5_Implmnt\synwork\project5_comp.srs|io:o|time:1731690702|size:3507|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project5\project5_Implmnt\synlog\project5_compiler.srr|io:o|time:1731690702|size:2956|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\project5_code.vhd|io:i|time:1731686529|size:1000|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\project5_debount_switch_module.vhd|io:i|time:1731690696|size:1083|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\c_hdl.exe|io:i|time:1728749870|size:1338368|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe|io:i|time:1728749870|size:1754112|exec:1

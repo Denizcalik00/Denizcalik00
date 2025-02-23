@@ -1,0 +1,84 @@
+#### START OF AREA REPORT #####[
+
+Part:			ICE40HX1KVQ100 (Lattice)
+
+-------------------------------------------------------------------------------------
+########   Utilization report for  Top level view:   Project_7_Segment_Top   ########
+=====================================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     42                 100 %                
+==================================================
+Total SEQUENTIAL ELEMENTS in the block Project_7_Segment_Top:	42 (29.37 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       56                 100 %                
+CARRYS     22                 100 %                
+===================================================
+Total COMBINATIONAL LOGIC in the block Project_7_Segment_Top:	78 (54.55 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     17                 100 %                
+=================================================
+Total IO PADS in the block Project_7_Segment_Top:	17 (11.89 % Utilization)
+
+------------------------------------------------------------------------
+########   Utilization report for  cell:   Binary_To_7Segment   ########
+Instance path:   Project_7_Segment_Top.Binary_To_7Segment               
+========================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     14                 33.3 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block Project_7_Segment_Top.Binary_To_7Segment:	14 (9.79 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+LUTS     14                 25 %                 
+=================================================
+Total COMBINATIONAL LOGIC in the block Project_7_Segment_Top.Binary_To_7Segment:	14 (9.79 % Utilization)
+
+---------------------------------------------------------------------
+########   Utilization report for  cell:   Debounce_switch   ########
+Instance path:   Project_7_Segment_Top.Debounce_switch               
+=====================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     19                 45.2 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block Project_7_Segment_Top.Debounce_switch:	19 (13.29 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       30                 53.6 %               
+CARRYS     16                 72.7 %               
+===================================================
+Total COMBINATIONAL LOGIC in the block Project_7_Segment_Top.Debounce_switch:	46 (32.17 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     1                  5.88 %               
+=================================================
+Total IO PADS in the block Project_7_Segment_Top.Debounce_switch:	1 (0.70 % Utilization)
+
+
+##### END OF AREA REPORT #####]
+

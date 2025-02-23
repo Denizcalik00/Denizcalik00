@@ -1,0 +1,78 @@
+Running in Lattice mode
+
+
+Starting:    C:\lscc\iCEcube2.2020.12\synpbase\bin64\mbin\synbatch.exe
+Install:     C:\lscc\iCEcube2.2020.12\synpbase
+Hostname:    DENIZ
+Date:        Sun Feb 23 12:44:23 2025
+Version:     L-2016.09L+ice40
+
+Arguments:   -product synplify_pro -batch PROJECT2_VHDL_LOOKUP_syn.prj
+ProductType: synplify_pro
+
+
+
+
+
+log file: "C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\PROJECT2_VHDL_LOOKUP\PROJECT2_VHDL_LOOKUP_Implmnt\PROJECT2_VHDL_LOOKUP.srr"
+Running: PROJECT2_VHDL_LOOKUP_Implmnt in foreground
+
+Running PROJECT2_VHDL_LOOKUP_syn|PROJECT2_VHDL_LOOKUP_Implmnt
+
+Running: compile (Compile) on PROJECT2_VHDL_LOOKUP_syn|PROJECT2_VHDL_LOOKUP_Implmnt
+# Sun Feb 23 12:44:23 2025
+
+Running: compile_flow (Compile Process) on PROJECT2_VHDL_LOOKUP_syn|PROJECT2_VHDL_LOOKUP_Implmnt
+# Sun Feb 23 12:44:23 2025
+
+Running: compiler (Compile Input) on PROJECT2_VHDL_LOOKUP_syn|PROJECT2_VHDL_LOOKUP_Implmnt
+# Sun Feb 23 12:44:23 2025
+Copied C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\PROJECT2_VHDL_LOOKUP\PROJECT2_VHDL_LOOKUP_Implmnt\synwork\PROJECT2_VHDL_LOOKUP_comp.srs to C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\PROJECT2_VHDL_LOOKUP\PROJECT2_VHDL_LOOKUP_Implmnt\PROJECT2_VHDL_LOOKUP.srs
+
+compiler completed
+# Sun Feb 23 12:44:25 2025
+
+Return Code: 0
+Run Time:00h:00m:02s
+
+Running: multi_srs_gen (Multi-srs Generator) on PROJECT2_VHDL_LOOKUP_syn|PROJECT2_VHDL_LOOKUP_Implmnt
+# Sun Feb 23 12:44:25 2025
+
+multi_srs_gen completed
+# Sun Feb 23 12:44:25 2025
+
+Return Code: 0
+Run Time:00h:00m:00s
+Copied C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\PROJECT2_VHDL_LOOKUP\PROJECT2_VHDL_LOOKUP_Implmnt\synwork\PROJECT2_VHDL_LOOKUP_mult.srs to C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\PROJECT2_VHDL_LOOKUP\PROJECT2_VHDL_LOOKUP_Implmnt\PROJECT2_VHDL_LOOKUP.srs
+Complete: Compile Process on PROJECT2_VHDL_LOOKUP_syn|PROJECT2_VHDL_LOOKUP_Implmnt
+
+Running: premap (Pre-mapping) on PROJECT2_VHDL_LOOKUP_syn|PROJECT2_VHDL_LOOKUP_Implmnt
+# Sun Feb 23 12:44:25 2025
+
+premap completed
+# Sun Feb 23 12:44:26 2025
+
+Return Code: 0
+Run Time:00h:00m:01s
+Complete: Compile on PROJECT2_VHDL_LOOKUP_syn|PROJECT2_VHDL_LOOKUP_Implmnt
+
+Running: map (Map) on PROJECT2_VHDL_LOOKUP_syn|PROJECT2_VHDL_LOOKUP_Implmnt
+# Sun Feb 23 12:44:26 2025
+License granted for 4 parallel jobs
+
+Running: fpga_mapper (Map & Optimize) on PROJECT2_VHDL_LOOKUP_syn|PROJECT2_VHDL_LOOKUP_Implmnt
+# Sun Feb 23 12:44:26 2025
+Copied C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\PROJECT2_VHDL_LOOKUP\PROJECT2_VHDL_LOOKUP_Implmnt\synwork\PROJECT2_VHDL_LOOKUP_m.srm to C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\PROJECT2_VHDL_LOOKUP\PROJECT2_VHDL_LOOKUP_Implmnt\PROJECT2_VHDL_LOOKUP.srm
+
+fpga_mapper completed
+# Sun Feb 23 12:44:26 2025
+
+Return Code: 0
+Run Time:00h:00m:00s
+Complete: Map on PROJECT2_VHDL_LOOKUP_syn|PROJECT2_VHDL_LOOKUP_Implmnt
+Complete: Logic Synthesis on PROJECT2_VHDL_LOOKUP_syn|PROJECT2_VHDL_LOOKUP_Implmnt
+
+exit status=0
+
+exit status=0
+

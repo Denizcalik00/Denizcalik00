@@ -1,0 +1,6 @@
+[VIC]
+Debounce_Inst.r_count_RNIQUEB1Z0Z_4_cascade_=ltout:in1
+Debounce_Inst.un1_r_countlto11_2_cascade_=ltout:in0
+Debounce_Inst.un1_r_countlto17_0_cascade_=ltout:in0
+Debounce_Inst.un8_r_count_13_cascade_=ltout:in0
+Debounce_Inst.un8_r_count_9_cascade_=ltout:in1

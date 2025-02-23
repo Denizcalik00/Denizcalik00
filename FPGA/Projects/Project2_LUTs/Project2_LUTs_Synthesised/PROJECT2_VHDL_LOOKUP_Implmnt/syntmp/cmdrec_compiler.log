@@ -1,0 +1,7 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe  -osyn  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\PROJECT2_VHDL_LOOKUP\PROJECT2_VHDL_LOOKUP_Implmnt\synwork\PROJECT2_VHDL_LOOKUP_comp.srs  -hdllog  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\PROJECT2_VHDL_LOOKUP\PROJECT2_VHDL_LOOKUP_Implmnt\synlog\PROJECT2_VHDL_LOOKUP_compiler.srr  -encrypt  -mp  4  -verification_mode 0  -vhdl  -prodtype  synplify_pro  -primux -fixsmult -infer_seqShift -ice -sdff_counter -nram -divnmod -nostructver  -encrypt  -pro  -dmgen  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\PROJECT2_VHDL_LOOKUP\PROJECT2_VHDL_LOOKUP_Implmnt\dm  -lite -ui -fid2 -ram -sharing on -ll 2000 -autosm  -ignore_undefined_lib  -lib work "C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\library library IEEE;.vhd" 
+rc:0 success:1 runtime:2
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\PROJECT2_VHDL_LOOKUP\PROJECT2_VHDL_LOOKUP_Implmnt\synwork\PROJECT2_VHDL_LOOKUP_comp.srs|io:o|time:1740314664|size:1574|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\PROJECT2_VHDL_LOOKUP\PROJECT2_VHDL_LOOKUP_Implmnt\synlog\PROJECT2_VHDL_LOOKUP_compiler.srr|io:o|time:1740314664|size:2978|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\library library IEEE;.vhd|io:i|time:1740314658|size:521|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\c_hdl.exe|io:i|time:1728749870|size:1338368|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe|io:i|time:1728749870|size:1754112|exec:1

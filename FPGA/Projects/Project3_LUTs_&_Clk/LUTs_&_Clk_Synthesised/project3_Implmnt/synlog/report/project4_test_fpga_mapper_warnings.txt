@@ -1,0 +1,2 @@
+@W: FX1039 :"c:\users\deniz_xbibqhy\onedrive\desktop\fpga\vhdl\project4_test.vhd":14:41:14:43|User-specified initial value defined for instance r_LED_1 is being ignored. 
+@W: FX1039 :"c:\users\deniz_xbibqhy\onedrive\desktop\fpga\vhdl\project4_test.vhd":18:12:18:13|User-specified initial value defined for instance r_Switch_1 is being ignored. 

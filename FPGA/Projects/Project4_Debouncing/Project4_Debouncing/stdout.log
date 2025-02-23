@@ -1,0 +1,78 @@
+Running in Lattice mode
+
+
+Starting:    C:\lscc\iCEcube2.2020.12\synpbase\bin64\mbin\synbatch.exe
+Install:     C:\lscc\iCEcube2.2020.12\synpbase
+Hostname:    DENIZ
+Date:        Fri Nov 15 17:11:42 2024
+Version:     L-2016.09L+ice40
+
+Arguments:   -product synplify_pro -batch project5_syn.prj
+ProductType: synplify_pro
+
+
+
+
+
+log file: "C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project5\project5_Implmnt\project5.srr"
+Running: project5_Implmnt in foreground
+
+Running project5_syn|project5_Implmnt
+
+Running: compile (Compile) on project5_syn|project5_Implmnt
+# Fri Nov 15 17:11:42 2024
+
+Running: compile_flow (Compile Process) on project5_syn|project5_Implmnt
+# Fri Nov 15 17:11:42 2024
+
+Running: compiler (Compile Input) on project5_syn|project5_Implmnt
+# Fri Nov 15 17:11:42 2024
+Copied C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project5\project5_Implmnt\synwork\project5_comp.srs to C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project5\project5_Implmnt\project5.srs
+
+compiler completed
+# Fri Nov 15 17:11:43 2024
+
+Return Code: 0
+Run Time:00h:00m:01s
+
+Running: multi_srs_gen (Multi-srs Generator) on project5_syn|project5_Implmnt
+# Fri Nov 15 17:11:43 2024
+
+multi_srs_gen completed
+# Fri Nov 15 17:11:44 2024
+
+Return Code: 0
+Run Time:00h:00m:01s
+Copied C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project5\project5_Implmnt\synwork\project5_mult.srs to C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project5\project5_Implmnt\project5.srs
+Complete: Compile Process on project5_syn|project5_Implmnt
+
+Running: premap (Pre-mapping) on project5_syn|project5_Implmnt
+# Fri Nov 15 17:11:44 2024
+
+premap completed with warnings
+# Fri Nov 15 17:11:44 2024
+
+Return Code: 1
+Run Time:00h:00m:00s
+Complete: Compile on project5_syn|project5_Implmnt
+
+Running: map (Map) on project5_syn|project5_Implmnt
+# Fri Nov 15 17:11:44 2024
+License granted for 4 parallel jobs
+
+Running: fpga_mapper (Map & Optimize) on project5_syn|project5_Implmnt
+# Fri Nov 15 17:11:44 2024
+Copied C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project5\project5_Implmnt\synwork\project5_m.srm to C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\project5\project5_Implmnt\project5.srm
+
+fpga_mapper completed with warnings
+# Fri Nov 15 17:11:45 2024
+
+Return Code: 1
+Run Time:00h:00m:01s
+Complete: Map on project5_syn|project5_Implmnt
+Complete: Logic Synthesis on project5_syn|project5_Implmnt
+
+exit status=0
+
+exit status=0
+

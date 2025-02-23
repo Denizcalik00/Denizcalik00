@@ -1,0 +1,3 @@
+@W: CL265 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg.vhd":73:8:73:9|Removing unused bit 7 of r_Hex_Encoding_2_2(7 downto 0). Either assign all bits or reduce the width of the signal.
+@W: CL265 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg.vhd":36:8:36:9|Removing unused bit 7 of r_Hex_Encoding_18(7 downto 0). Either assign all bits or reduce the width of the signal.
+

@@ -1,0 +1,145 @@
+set_location IN_MUX_bfv_5_12_0_ 5 12 0 #ICE_CARRY_IN_MUX
+set_location IN_MUX_bfv_1_10_0_ 1 10 0 #ICE_CARRY_IN_MUX
+set_location IN_MUX_bfv_1_11_0_ 1 11 0 #ICE_CARRY_IN_MUX
+set_location IN_MUX_bfv_1_12_0_ 1 12 0 #ICE_CARRY_IN_MUX
+set_location IN_MUX_bfv_4_12_0_ 4 12 0 #ICE_CARRY_IN_MUX
+set_location CONSTANT_ONE_LUT4 5 12 7 #SB_LUT4
+set_location p_Switch_Count_r_count_219_THRU_LUT4_0 5 12 3 #SB_LUT4
+set_location r_Switch_1_THRU_LUT4_0 2 11 6 #SB_LUT4
+set_location r_Switch_1 2 11 6 #SB_DFF
+set_location SevenSeg1_Inst.r_Hex_Encoding_17_6_0_.m26 2 15 1 #SB_LUT4
+set_location Debounce_Inst.r_count_RNO[3] 1 10 2 #SB_LUT4
+set_location Debounce_Inst.r_count[0] 2 9 2 #SB_DFFSR
+set_location SevenSeg1_Inst.r_Hex_Encoding_i[6] 2 15 1 #SB_DFF
+set_location SevenSeg1_Inst.r_Hex_Encoding_2_1_6_0_.r_Hex_Encoding_2_1_i[4] 5 14 1 #SB_LUT4
+set_location r_Count_2_RNO[2] 4 12 2 #SB_LUT4
+set_location SevenSeg1_Inst.r_Hex_Encoding_17_6_0_.m10 2 12 7 #SB_LUT4
+set_location SevenSeg1_Inst.r_Hex_Encoding_2_i[1] 4 14 1 #SB_DFF
+set_location r_Count_RNIEET6[3] 2 12 2 #SB_LUT4
+set_location Debounce_Inst.un2_r_count_cry_6_c 1 10 5 #SB_CARRY
+set_location Debounce_Inst.r_count_RNO[7] 1 10 6 #SB_LUT4
+set_location Debounce_Inst.r_count[4] 1 10 3 #SB_DFFSR
+set_location r_Count_RNO[0] 2 12 6 #SB_LUT4
+set_location r_Count_2[0] 4 12 0 #SB_DFFR
+set_location SevenSeg1_Inst.r_Hex_Encoding_i[2] 2 15 3 #SB_DFF
+set_location SevenSeg1_Inst.r_Hex_Encoding_17_6_0_.r_Hex_Encoding_17_i[5] 2 15 6 #SB_LUT4
+set_location Debounce_Inst.r_state_RNO_5 1 9 3 #SB_LUT4
+set_location Debounce_Inst.r_count_RNO[12] 1 11 3 #SB_LUT4
+set_location Debounce_Inst.r_count[17] 1 12 0 #SB_DFFSR
+set_location p_Switch_Count.r_count_219_cry_3_c 5 12 2 #SB_CARRY
+set_location SevenSeg1_Inst.r_Hex_Encoding_17_6_0_.m14 2 15 3 #SB_LUT4
+set_location Debounce_Inst.un2_r_count_cry_9_c 1 11 0 #SB_CARRY
+set_location Debounce_Inst.un2_r_count_cry_13_c 1 11 4 #SB_CARRY
+set_location Debounce_Inst.r_count_RNO[2] 1 10 1 #SB_LUT4
+set_location Debounce_Inst.r_count[3] 1 10 2 #SB_DFFSR
+set_location r_Count[0] 2 12 6 #SB_DFF
+set_location Debounce_Inst.un2_r_count_cry_4_c 1 10 3 #SB_CARRY
+set_location Debounce_Inst.r_count[8] 1 10 7 #SB_DFFSR
+set_location Debounce_Inst.r_count[10] 1 11 1 #SB_DFFSR
+set_location r_Count_2_RNO[3] 4 12 3 #SB_LUT4
+set_location p_Switch_Count.r_count_219_cry_1_c 5 12 0 #SB_CARRY
+set_location Debounce_Inst.r_state_RNO_1 1 9 4 #SB_LUT4
+set_location Debounce_Inst.r_count_RNO[16] 1 11 7 #SB_LUT4
+set_location SevenSeg1_Inst.r_Hex_Encoding_2_i[6] 4 13 1 #SB_DFF
+set_location Debounce_Inst.un2_r_count_cry_3_c 1 10 2 #SB_CARRY
+set_location Debounce_Inst.un2_r_count_cry_11_c 1 11 2 #SB_CARRY
+set_location Debounce_Inst.r_count_RNO[6] 1 10 5 #SB_LUT4
+set_location Debounce_Inst.r_count[7] 1 10 6 #SB_DFFSR
+set_location r_Count_RNO[3] 2 12 0 #SB_LUT4
+set_location r_Count_2[1] 4 12 1 #SB_DFFR
+set_location p_Switch_Count.r_Count_2_3_cry_2_c 4 12 2 #SB_CARRY
+set_location SevenSeg1_Inst.r_Hex_Encoding_i[5] 2 15 6 #SB_DFF
+set_location SevenSeg1_Inst.r_Hex_Encoding_2_1_6_0_.r_Hex_Encoding_2_1_i[3] 5 14 0 #SB_LUT4
+set_location SevenSeg1_Inst.r_Hex_Encoding_17_6_0_.r_Hex_Encoding_17_i[4] 2 15 2 #SB_LUT4
+set_location GND -1 -1 -1 #GND
+set_location Debounce_Inst.r_state_RNO_4 1 9 2 #SB_LUT4
+set_location Debounce_Inst.r_count_RNO[13] 1 11 4 #SB_LUT4
+set_location Debounce_Inst.r_count[14] 1 11 5 #SB_DFFSR
+set_location SevenSeg1_Inst.r_Hex_Encoding_2_1_6_0_.m26 4 13 1 #SB_LUT4
+set_location Debounce_Inst.un2_r_count_cry_2_c 1 10 1 #SB_CARRY
+set_location Debounce_Inst.un2_r_count_cry_16_c 1 11 7 #SB_CARRY
+set_location SevenSeg1_Inst.r_Hex_Encoding_2_i[2] 5 14 5 #SB_DFF
+set_location SevenSeg1_Inst.r_Hex_Encoding_2_1_6_0_.m14 5 14 5 #SB_LUT4
+set_location Debounce_Inst.r_count_RNO[1] 2 9 1 #SB_LUT4
+set_location Debounce_Inst.r_count[2] 1 10 1 #SB_DFFSR
+set_location Debounce_Inst.r_count[11] 1 11 2 #SB_DFFSR
+set_location r_Switch_1_RNILIIO 2 11 5 #SB_LUT4
+set_location r_Count_2_RNO[0] 4 12 0 #SB_LUT4
+set_location SevenSeg1_Inst.r_Hex_Encoding_i[1] 2 12 7 #SB_DFF
+set_location Debounce_Inst.r_state_RNO_0 2 10 2 #SB_LUT4
+set_location Debounce_Inst.r_count_RNO[17] 1 12 0 #SB_LUT4
+set_location p_Switch_Count.r_Count_2_3_cry_1_c 4 12 1 #SB_CARRY
+set_location SevenSeg1_Inst.r_Hex_Encoding_2_1_6_0_.m10 4 14 1 #SB_LUT4
+set_location Debounce_Inst.r_count_RNO[5] 1 10 4 #SB_LUT4
+set_location Debounce_Inst.r_count[6] 1 10 5 #SB_DFFSR
+set_location r_Count_RNO[2] 2 12 4 #SB_LUT4
+set_location r_Count[3] 2 12 0 #SB_DFF
+set_location r_Count_2[2] 4 12 2 #SB_DFFR
+set_location SevenSeg1_Inst.r_Hex_Encoding_i[4] 2 15 2 #SB_DFF
+set_location Debounce_Inst.r_count[15] 1 11 6 #SB_DFFSR
+set_location Debounce_Inst.un2_r_count_cry_7_c 1 10 6 #SB_CARRY
+set_location Debounce_Inst.r_count_RNIU83D[4] 1 9 5 #SB_LUT4
+set_location SevenSeg1_Inst.r_Hex_Encoding_2_i[3] 5 14 0 #SB_DFF
+set_location Debounce_Inst.un2_r_count_cry_1_c 1 10 0 #SB_CARRY
+set_location Debounce_Inst.un2_r_count_cry_15_c 1 11 6 #SB_CARRY
+set_location Debounce_Inst.r_count_RNO[0] 2 9 2 #SB_LUT4
+set_location r_Switch_1_RNI31GV 2 12 3 #SB_LUT4
+set_location r_Count_RNO_0[3] 2 12 1 #SB_LUT4
+set_location p_Switch_Count.r_count_219_cry_2_c 5 12 1 #SB_CARRY
+set_location Debounce_Inst.r_count_RNO[9] 1 11 0 #SB_LUT4
+set_location r_Count_2_RNO[1] 4 12 1 #SB_LUT4
+set_location SevenSeg1_Inst.r_Hex_Encoding_i[0] 2 15 4 #SB_DFF
+set_location Debounce_Inst.un2_r_count_cry_8_c 1 10 7 #SB_CARRY
+set_location Debounce_Inst.r_state_RNO_3 2 10 1 #SB_LUT4
+set_location Debounce_Inst.r_state 2 10 3 #SB_DFF
+set_location Debounce_Inst.r_count_RNO[10] 1 11 1 #SB_LUT4
+set_location SevenSeg1_Inst.r_Hex_Encoding_2_i[4] 5 14 1 #SB_DFF
+set_location Debounce_Inst.un2_r_count_cry_5_c 1 10 4 #SB_CARRY
+set_location Debounce_Inst.un2_r_count_cry_12_c 1 11 3 #SB_CARRY
+set_location Debounce_Inst.r_state_RNO 2 10 3 #SB_LUT4
+set_location SevenSeg1_Inst.r_Hex_Encoding_2_1_6_0_.m5 4 14 3 #SB_LUT4
+set_location Debounce_Inst.un2_r_count_cry_14_c 1 11 5 #SB_CARRY
+set_location Debounce_Inst.r_count_RNO[4] 1 10 3 #SB_LUT4
+set_location Debounce_Inst.r_count[1] 2 9 1 #SB_DFFSR
+set_location r_Count_2[3] 4 12 3 #SB_DFFR
+set_location r_Count[2] 2 12 4 #SB_DFF
+set_location SevenSeg1_Inst.r_Hex_Encoding_2_1_6_0_.r_Hex_Encoding_2_1_i[5] 4 13 0 #SB_LUT4
+set_location Debounce_Inst.r_count[12] 1 11 3 #SB_DFFSR
+set_location SevenSeg1_Inst.r_Hex_Encoding_17_6_0_.r_Hex_Encoding_17_i[3] 2 15 7 #SB_LUT4
+set_location Debounce_Inst.r_count_RNO[14] 1 11 5 #SB_LUT4
+set_location Debounce_Inst.r_count_RNISLBU[8] 2 10 7 #SB_LUT4
+set_location SevenSeg1_Inst.r_Hex_Encoding_2_i[0] 4 14 3 #SB_DFF
+set_location SevenSeg1_Inst.r_Hex_Encoding_17_6_0_.m5 2 15 4 #SB_LUT4
+set_location Debounce_Inst.un2_r_count_cry_10_c 1 11 1 #SB_CARRY
+set_location Debounce_Inst.r_count_RNO[8] 1 10 7 #SB_LUT4
+set_location Debounce_Inst.r_count_RNI5U832[12] 1 9 6 #SB_LUT4
+set_location Debounce_Inst.r_count_RNI2BKF1[17] 2 11 7 #SB_LUT4
+set_location Debounce_Inst.r_count[5] 1 10 4 #SB_DFFSR
+set_location r_Count_RNO[1] 2 12 5 #SB_LUT4
+set_location SevenSeg1_Inst.r_Hex_Encoding_i[3] 2 15 7 #SB_DFF
+set_location Debounce_Inst.r_state_RNO_2 2 11 2 #SB_LUT4
+set_location Debounce_Inst.r_state_RNIOSS74 1 9 7 #SB_LUT4
+set_location Debounce_Inst.r_count_RNO[11] 1 11 2 #SB_LUT4
+set_location Debounce_Inst.r_count[16] 1 11 7 #SB_DFFSR
+set_location SevenSeg1_Inst.r_Hex_Encoding_2_i[5] 4 13 0 #SB_DFF
+set_location r_Count[1] 2 12 5 #SB_DFF
+set_location Debounce_Inst.r_count[9] 1 11 0 #SB_DFFSR
+set_location Debounce_Inst.r_count[13] 1 11 4 #SB_DFFSR
+set_location p_Switch_Count.r_Count_2_3_cry_0_c 4 12 0 #SB_CARRY
+set_location Debounce_Inst.r_count_RNO[15] 1 11 6 #SB_LUT4
+set_io o_Segment2_D 95
+set_io o_Segment1_F 1
+set_io o_Segment1_B 4
+set_io i_Clk 15
+set_io o_Segment2_G 96
+set_io o_Segment2_C 97
+set_io o_Segment1_G 2
+set_io o_Segment1_C 93
+set_io i_Switch_1 53
+set_io o_Segment2_F 8
+set_io o_Segment2_B 99
+set_io o_Segment1_D 91
+set_io o_Segment2_E 94
+set_io o_Segment2_A 100
+set_io o_Segment1_E 90
+set_io o_Segment1_A 3

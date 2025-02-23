@@ -1,0 +1,2 @@
+@W: CL265 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\7-segment-convertion-again-.vhd":25:8:25:9|Removing unused bit 7 of r_Hex_Encoding_18(7 downto 0). Either assign all bits or reduce the width of the signal.
+

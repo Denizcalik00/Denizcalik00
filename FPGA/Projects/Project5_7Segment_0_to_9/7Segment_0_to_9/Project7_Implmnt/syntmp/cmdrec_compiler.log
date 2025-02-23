@@ -1,0 +1,9 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe  -osyn  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project7\Project7_Implmnt\synwork\Project7_comp.srs  -hdllog  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project7\Project7_Implmnt\synlog\Project7_compiler.srr  -encrypt  -mp  4  -verification_mode 0  -vhdl  -prodtype  synplify_pro  -primux -fixsmult -infer_seqShift -ice -sdff_counter -nram -divnmod -nostructver  -encrypt  -pro  -dmgen  C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project7\Project7_Implmnt\dm  -lite -ui -fid2 -ram -sharing on -ll 2000 -autosm  -ignore_undefined_lib  -lib work C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\7-segment-convertion-again-.vhd -lib work C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\7-segment-top-level-again.vhd -lib work C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\project5_debount_switch_module.vhd 
+rc:0 success:1 runtime:2
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project7\Project7_Implmnt\synwork\Project7_comp.srs|io:o|time:1739476022|size:5476|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\PROJECTS\Project7\Project7_Implmnt\synlog\Project7_compiler.srr|io:o|time:1739476022|size:3742|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\7-segment-convertion-again-.vhd|io:i|time:1739474874|size:2334|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\7-segment-top-level-again.vhd|io:i|time:1739474901|size:2859|exec:0
+file:C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\project5_debount_switch_module.vhd|io:i|time:1739474942|size:1084|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\c_hdl.exe|io:i|time:1728749870|size:1338368|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe|io:i|time:1728749870|size:1754112|exec:1

@@ -1,0 +1,11 @@
+@W: FA239 :"c:\users\deniz_xbibqhy\onedrive\desktop\try7seg.vhd":74:12:74:15|ROM r_Hex_Encoding_2_1[6:0] (in view: work.Binary_To_7Segment(rtl)) mapped in logic. To map to a technology ROM, apply attribute syn_romstyle on this instance.
+@W: FA239 :"c:\users\deniz_xbibqhy\onedrive\desktop\try7seg.vhd":37:12:37:15|ROM r_Hex_Encoding_17[6:0] (in view: work.Binary_To_7Segment(rtl)) mapped in logic. To map to a technology ROM, apply attribute syn_romstyle on this instance.
+@W: FA239 :"c:\users\deniz_xbibqhy\onedrive\desktop\try7seg.vhd":74:12:74:15|ROM r_Hex_Encoding_2_1[6:0] (in view: work.Binary_To_7Segment(rtl)) mapped in logic. To map to a technology ROM, apply attribute syn_romstyle on this instance.
+@W: FA239 :"c:\users\deniz_xbibqhy\onedrive\desktop\try7seg.vhd":37:12:37:15|ROM r_Hex_Encoding_17[6:0] (in view: work.Binary_To_7Segment(rtl)) mapped in logic. To map to a technology ROM, apply attribute syn_romstyle on this instance.
+@W: FX1039 :"c:\users\deniz_xbibqhy\onedrive\desktop\fpga\vhdl\project5_debount_switch_module.vhd":25:8:25:9|User-specified initial value defined for instance Debounce_Inst.r_count[17:0] is being ignored. 
+@W: FX1039 :"c:\users\deniz_xbibqhy\onedrive\desktop\fpga\vhdl\project5_debount_switch_module.vhd":25:8:25:9|User-specified initial value defined for instance Debounce_Inst.r_state is being ignored. 
+@W: FX1039 :"c:\users\deniz_xbibqhy\onedrive\desktop\try7seg.vhd":73:8:73:9|User-specified initial value defined for instance SevenSeg1_Inst.r_Hex_Encoding_2[6:0] is being ignored. 
+@W: FX1039 :"c:\users\deniz_xbibqhy\onedrive\desktop\try7seg.vhd":36:8:36:9|User-specified initial value defined for instance SevenSeg1_Inst.r_Hex_Encoding[6:0] is being ignored. 
+@W: FX1039 :"c:\users\deniz_xbibqhy\onedrive\desktop\try7seg_top_module.vhd":80:8:80:9|User-specified initial value defined for instance r_Count_2[3:0] is being ignored. 
+@W: FX1039 :"c:\users\deniz_xbibqhy\onedrive\desktop\try7seg_top_module.vhd":35:37:35:39|User-specified initial value defined for instance r_Count[3:0] is being ignored. 
+@W: FX1039 :"c:\users\deniz_xbibqhy\onedrive\desktop\try7seg_top_module.vhd":67:8:67:9|User-specified initial value defined for instance r_Switch_1 is being ignored. 

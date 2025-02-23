@@ -1,0 +1,11 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg_TOP_MODULE.vhd":5:7:5:27|Top entity is set to Project_7_Segment_Top.
+@N: CD630 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg_TOP_MODULE.vhd":5:7:5:27|Synthesizing work.project_7_segment_top.rtl.
+@N: CD630 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg.vhd":4:7:4:24|Synthesizing work.binary_to_7segment.rtl.
+@N: CD630 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\FPGA\VHDL\project5_debount_switch_module.vhd":6:7:6:21|Synthesizing work.debounce_switch.rtl.
+@N|Running in 64-bit mode
+@N: NF107 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg_TOP_MODULE.vhd":5:7:5:27|Selected library: work cell: Project_7_Segment_Top view rtl as top level
+@N: NF107 :"C:\Users\Deniz_xbibqhy\OneDrive\Desktop\try7seg_TOP_MODULE.vhd":5:7:5:27|Selected library: work cell: Project_7_Segment_Top view rtl as top level
+

@@ -1,0 +1,1 @@
+@W: MT529 :"c:\users\deniz_xbibqhy\onedrive\desktop\fpga\vhdl\project5_debount_switch_module.vhd":25:8:25:9|Found inferred clock Clocked_Logic|i_Clk which controls 21 sequential elements including Debounce_Inst.r_count[17:0]. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. 
